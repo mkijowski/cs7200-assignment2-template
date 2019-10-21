@@ -8,6 +8,10 @@
 //
 // Be sure to put your names and assignment info in comments up here
 //
+// If you are using JAVA package your code as a jar:
+// https://www.webucator.com/how-to/how-create-jar-file-java.cfm
+// https://stackoverflow.com/questions/8123058/passing-on-command-line-arguments-to-runnable-jar
+//
 //########
 
 with open("input.txt") as f:
