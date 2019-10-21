@@ -1,0 +1,5 @@
+Place your pseudo code here.
+
+Dont know how to write psuedo code?  Check this link: 
+https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/
+
