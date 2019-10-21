@@ -1,6 +1,6 @@
 //#######
 //
-// CEG 7200: Algorithm Design and Analysis
+// CS 7200: Algorithm Design and Analysis
 //
 // Template java file with sample code for reading files in java
 //
