@@ -2,7 +2,7 @@
 Submitted by:
 
 
-### Repoository details
+### Repository details
 This repo serves to simply outline the requirements for the second assignment of
 CS 7200.  Please use at your own risk (requirements may change and I may not
 update this repo).
